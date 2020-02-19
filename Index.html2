@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Sulphur+Point:300,400&display=swap" rel="stylesheet"> 
+  </head>
+    <style>
+      body {
+        background-color: rgb(209,228,236);
+      }
+      #Bottlenose {
+        background-color: lightcyan;
+        color: teal;
+        padding: 5px;
+        border-left: 5px teal solid;
+        margin-bottom: 0px;
+        font-family: 'sulphur point', sans-serif;    
+        margin-top: -8px;
+      }
+      h5 {
+        float: left;
+        width: 99px;
+        text-align: right;
+        background-color: lightcyan;
+        border-bottom: 1.5px teal solid;
+        color: teal;
+        margin-top: 0px;
+        font-family: 'sulphur point', sans-serif;
+        
+      }
+      #bottlenosemap {
+        background-color: white;
+        margin-top: 100px;
+        border: 3px teal groove;
+        width: 100%
+      }
+      .heading {
+        position: fixed;
+        width: 100%
+      }
+      p {
+        font-family: 'sulphur point', sans-serif;
+        line-height: 2;
+        float: right;
+        width: 100%;
+        margin-top: 10px;
+      }
+      strong {
+        color: teal;
+        font-size: 20px
+      }
+      em {
+        color: teal;
+        font-size: 15px;
+        font-style: normal;
+      }
+    </style>
+  <body>
+    <div class=heading><h1 id="Bottlenose">Bottlenose</h1>
+    <h5 class="dolphintextlinks">Home</h5>
+    <h5 class="dolphintextlinks">Bottlenose</h5>
+    <h5 class="dolphintextlinks">Spinner</h5>
+      <h5 class="dolphintextlinks">Striped</h5></div>
+    <img id="bottlenosemap" src="0FC9789C-6C08-4FAC-82D0-798F191639CA.png" alt="map of locations where bottlenose dolphins can be found" width=50%>
+    <p>
+      <strong>Location:</strong> Bottlenose dolphins are very common and can be found in many places. Generally, they reside in areas where water temperature is between <em>50 and 90 degrees farenheit.</em> Some bottlenose dolphin pods migrate, but might not depending on where their main location is. If the water temperature stays in a good range for the entire year, then there is no reason for them to migrate. <br>
+      <strong>Population Status:</strong> Bottlenose dolphins are in no danger, and can commonly be found. The population is around <em>600,000.</em><br>
+      <strong>Color Patterns:</strong> Bottlenose dolphins generally have white stomachs, and light, dark, or greenish gray around the edges. As they get older, they might get specks on their skin.
+    <p>
+  </body>
+</html>
